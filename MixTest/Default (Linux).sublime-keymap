@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+shift+1"], "command": "mix_test"  }
+]
